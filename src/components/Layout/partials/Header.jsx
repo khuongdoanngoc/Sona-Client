@@ -34,12 +34,12 @@ function Header() {
                                         <a href="/">Account</a>
                                         <ul className="dropdown">
                                             <li>
-                                                <a href="/">
+                                                <a href="/login">
                                                     Login
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="/">
+                                                <a href="/sign-up">
                                                     Sign Up
                                                 </a>
                                             </li>

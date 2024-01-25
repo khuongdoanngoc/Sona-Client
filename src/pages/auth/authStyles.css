@@ -1,0 +1,24 @@
+.body-title {
+    padding-bottom: 70px;
+}
+
+.body-title-text h2 {
+    font-size: 44px;
+    color: #19191a;
+    margin-bottom: 12px;
+}
+
+.body-title-option a {
+    display: inline-block;
+    font-size: 18px;
+    color: #19191a;
+    margin-right: 20px;
+    /* position: relative; */
+    font-weight: 500;
+}
+
+.body-title-option span {
+    display: inline-block;
+    font-size: 18px;
+    color: #aaaab3;
+}

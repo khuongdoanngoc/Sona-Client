@@ -1,9 +1,10 @@
 import BodyTitle from "../../components/Common/BodyTitle";
+import "./authStyles.css";
 
-function Rooms() {
+function Login() {
     return (
         <div className="body-wrapper">
-            <BodyTitle title={"Our Rooms"} />
+            <BodyTitle title={"Login"} />
             <div className="body-content">
                 
             </div>
@@ -11,4 +12,4 @@ function Rooms() {
     );
 }
 
-export default Rooms;
+export default Login;

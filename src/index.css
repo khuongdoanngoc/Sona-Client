@@ -1,7 +1,6 @@
 .body {
-    height: 40vh;
+    height: 100vh;
     max-width: 1170px;
     margin: 0px 127.500px 27px 127.500px;
-    padding: 0px 15px 0px 15px;
-    background-color: violet;
+    padding: 70px 15px 80px 15px;
 }

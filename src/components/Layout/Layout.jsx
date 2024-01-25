@@ -1,3 +1,4 @@
+import "./layoutStyles.css"
 import Footer from "./partials/Footer";
 import Header from "./partials/Header";
 import { Outlet, Link } from "react-router-dom";
