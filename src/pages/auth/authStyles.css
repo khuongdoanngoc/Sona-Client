@@ -22,3 +22,27 @@
     font-size: 18px;
     color: #aaaab3;
 }
+
+.body-content {
+    width: 100%;
+}
+
+.box {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #e1e1e1;
+    padding-top: 46px;
+}
+
+.box2 {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #e1e1e1;
+    height: 70px;
+}
